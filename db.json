@@ -1,0 +1,28 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Konrad Group",
+      "address": "Costa Rica",
+      "phone": "22118877"
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "name": "Andrés Benavides",
+      "email": "jorgeandresbm22@gmail.com",
+      "phone": "7114-4319",
+      "position": "I Can't Stay",
+      "company": "Konrad Group"
+    },
+    {
+      "id": 2,
+      "name": "Andrés Ramos",
+      "email": "andresramos.g23@gmail.com",
+      "phone": "8896-2014",
+      "position": "The Way It Was",
+      "company": "Possible"
+    }
+  ]
+}
